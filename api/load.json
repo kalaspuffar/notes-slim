@@ -1,0 +1,7 @@
+{
+  "options": {
+    "packageName": "notes_server"
+  },
+  "openAPIUrl": "http://localhost:3000/api/swagger.yaml"
+}
+
